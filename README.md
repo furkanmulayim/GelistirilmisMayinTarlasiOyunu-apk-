@@ -1,2 +1,2 @@
 # GelistirilmisMayinTarlasiOyunu
-Android için görselleri iyileştirilmiş mayın tarlası oyunudur (Kotlin ile yazıldı)
+Kotlin dili ile Android için görselleri iyileştirilmiş mayın tarlası oyunum yapması çok zevkli bir uygulamaydı benim için 
